@@ -1,0 +1,13 @@
+{
+  "name": "com.flash.timers",
+  "version": "1.0.0",
+  "displayName": "Timers",
+  "description": "Commonly used Timers with callbacks, progress tracking etc. Timers are hooked into Unity's player loop.",
+  "unity": "2022.1",
+  "author": {
+    "name": "David Zábranský",
+    "email": "zabranskydavid2@gmail.com",
+    "url": "https://github.com/SempiternalFlash"
+  }
+}
+
